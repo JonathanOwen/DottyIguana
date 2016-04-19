@@ -1,0 +1,55 @@
+1	Blow out/flat tire
+2	Stalled engine
+3	"Disabling vehicle failure (e.g., wheel fell off) "
+4	"Non-disabling vehicle problem (e.g., hood flew up)"
+5	"Poor road conditions (puddle, pothole, ice, etc.) "
+6	Traveling too fast for conditions
+8	Other cause of control loss 
+9	Unknown cause of control loss
+10	Over the lane line on left side of travel lane
+11	Over the lane line on right side of travel lane
+12	Off the edge of the road on the left side
+13	Off the edge of the road on the right side
+14	End departure
+15	Turning left at junction
+16	Turning right at junction
+17	Passing through intersection
+18	This vehicle decelerating
+19	Unknown travel direction
+50	Other vehicle stopped
+51	Traveling in same direction with lower or steady speed
+52	Traveling in same direction while decelerating
+53	Traveling in same direction with higher speed
+54	Traveling in opposite direction
+55	In crossover
+56	Backing
+59	Unknown travel direction of the other motor vehicle in lane
+60	From adjacent lane (same direction) over left lane line
+61	From adjacent lane (same direction) over right lane line
+62	From opposite direction  over left lane line
+63	From opposite direction  over right lane line
+64	"From parking lane, median, shoulder, roadside"
+65	"From crossing street, turning into same direction"
+66	"Crossing street"
+67	"From crossing street, turning into opposite direction"
+68	"From crossing street, intended path not known"
+70	"From driveway, turning into same direction"
+71	"From driveway, across path"
+72	"From driveway, turning into opposite direction"
+73	"From driveway, intended path not known"
+74	From entrance to limited access highway
+78	Encroachment by other vehicle - details unknown
+80	Pedestrian in road
+81	Pedestrian approaching road
+82	Pedestrian unknown location
+83	Pedalcyclist or other non-motorist in road
+84	Pedalcyclist or other non-motorist approaching road
+85	Pedalcyclist or other non-motorist unknown location
+87	Animal in road
+88	Animal approaching road
+89	Animal -unknown location
+90	Object in road
+91	Object approaching road
+92	Object unknown location
+98	Other critical precrash event 
+99	Unknown

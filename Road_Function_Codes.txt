@@ -1,0 +1,15 @@
+1	Rural-Principal Arterial-Interstate
+2	Rural-Principal Arterial-Other
+3	Rural-Minor Arterial
+4	Rural-Major Collector
+5	Rural-Minor Collector
+6	Rural-Local Road or Street
+9	Rural-Unknown Rural
+11	Urban-Principal Arterial-Interstate
+12	Urban-Principal Arterial-Other Freeways or Expressways
+13	Urban-Other Principal Arterial
+14	Urban-Minor Arterial
+15	Urban-Collector
+16	Urban-Local Road or Street
+19	Urban-Unknown Urban
+99	Unknown
